@@ -9,6 +9,4 @@
 - JavaScript
 - Nodes.js
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToxheulsBpCIkTxuG_dwm3h4kI1d6V-tORuA4HgzpXnQ&s)
-![](https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20210422185554)
-
+![](https://scontent-mnl3-1.xx.fbcdn.net/v/t1.15752-9/676320541_2442064719640480_5961719923398640428_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1920&ctp=s1080x1920&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeE-bgv653Lk9MvJXoFfWbKtRWwGcxO56lJFbAZzE7nqUnQ6hc34O0Y6GgNznupuMimWMGnJ1CtQzR9KQD3ACGOB&_nc_ohc=591QW-q0OvoQ7kNvwFy-sb8&_nc_oc=AdqBPWwNozkzLSpa2cBTZW6X6Q7DpT8R04Un-QnpIzGLYm9Usl7k8hW59szhuAM4B1wIPS5RHoWP-h_CyaoY7UIH&_nc_zt=23&_nc_ht=scontent-mnl3-1.xx&_nc_ss=7b2a8&oh=03_Q7cD6AF4aqNjlbzClqV1vwiSDCKWxtX9GHzowJ1KyPyDnxtVlg&oe=6A996469)
