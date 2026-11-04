@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Aaron%20John%20B.%20Sulleza&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+web+apps+with+Django;Learning+something+new+every+day;Open+to+collaborate+and+learn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.;%E2%80%94+Martin+Fowler;Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.;%E2%80%94+Cory+House" alt="Typing SVG" />
 </a>
 
 <br/>
