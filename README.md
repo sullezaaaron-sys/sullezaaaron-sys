@@ -45,12 +45,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contributions
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sullezaaaron-sys&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullezaaaron-sys&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img src="https://ghchart.rshah.org/36BCF7/sullezaaaron-sys" alt="Contribution chart" width="90%" />
 
 </div>
 
